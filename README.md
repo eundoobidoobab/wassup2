@@ -1,8 +1,2 @@
 # wassup2
-wassup2 test
-
-test
-
-실습 중
-
-pull실습
+리드미 꾸미기 어케하는거지...

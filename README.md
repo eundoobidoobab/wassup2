@@ -16,6 +16,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zuzu_zzing/)](https://www.instagram.com/) 
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/)
 
+
 ### Learning
 ---
 ![](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)

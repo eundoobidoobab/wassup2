@@ -9,7 +9,7 @@
  
 ### 👧Introduction
 ---
-이름: 조은수
+이름: 조은수   
 관심사: 반려동물, 독스포츠, 식물, 아웃도어, 여행, 캠핑, 백패킹, 트레킹
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:eundoobidoobab@gmail.com)

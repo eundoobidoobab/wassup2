@@ -25,5 +25,6 @@
 
 ### Project
 ---
+AI 학습 데이터셋 수집/가공 Project Manager   
 VISION:   
 TEXT:

@@ -7,7 +7,7 @@
 
    
  
-### 👧Introduction
+### 👧About Me
 ---
 이름: 조은수   
 관심사: 반려동물, 독스포츠, 식물, 아웃도어, 여행, 캠핑, 백패킹, 트레킹
@@ -21,3 +21,7 @@
 ---
 ![](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+### Project
+---

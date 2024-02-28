@@ -25,3 +25,5 @@
 
 ### Project
 ---
+VISION:
+TEXT:

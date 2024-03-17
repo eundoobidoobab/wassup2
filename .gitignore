@@ -9,6 +9,11 @@ __pycache__/
 # dataset
 dataset/
 
+#sample
+sample/
+
+#output
+output/
 
 
 # Distribution / packaging
